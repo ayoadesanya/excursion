@@ -1,0 +1,27 @@
+body{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    background-color: #000000;
+}
+
+#header{
+    
+    text-align: center;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    
+    
+    }
+
+#content{
+    
+    padding: 10px;
+    background-color: grey;
+    height: 1000px;
+    color: white;
+    
+    
+}
