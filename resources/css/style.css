@@ -19,7 +19,7 @@ body{
 #content{
     
     padding: 10px;
-    background-color: grey;
+    background-color: black;
     height: 1000px;
     color: white;
     
@@ -36,9 +36,10 @@ body{
 
 #video{
     
-    height: 20px;
+   
     text-align: center;
     clear: both;
+    
         
     
 }
@@ -48,7 +49,35 @@ body{
     font-family: Verdena;
     font-weight: 300;
     font-size: 42px;
-    c
+    text-align: center;
     
+    
+}
+
+#remembers{
+    
+    background-color: gray;
+    font-size: 21px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#camp{
+    
+    text-align: center;
+    
+    
+}
+
+#coming{
+    color: #fff;
+    text-align: center;
+    
+    
+}
+
+#footer{
+    
+    text-align: right;
     
 }
